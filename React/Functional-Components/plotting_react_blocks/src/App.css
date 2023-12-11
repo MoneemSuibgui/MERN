@@ -1,0 +1,54 @@
+.App {
+  border: 3px black solid;
+  width: 1000px;
+  margin: 10% auto;
+  background-color:#dddddd;
+}
+.Header{
+  border: 1px black solid;
+  width: 960px;
+  height: 100px;
+  display: flex;
+  background-color:#6aa84f ;
+  margin: 20px;
+}
+.Main{
+  display: inline-block;
+  width :700px;
+  height: 440px;
+  background-color: #e06666;
+  border: 1px black solid;
+  margin: 0px 20px 20px 0px;
+  padding: 5px;
+}
+.Navigation{
+  width:500px;
+  height: 350px;
+  background-color: #6fa8dc;
+  border: 1px black solid;
+  margin: 0px 20px 20px;
+}
+.Subcontent{
+  display: inline-block;
+  flex-direction: row;
+  width:200px;
+  height: 300px;
+  background-color: #ffd966;
+  margin:10px;
+  padding-left: 10px;
+  border: 1px black solid;
+
+}
+.body{
+  display: flex;
+  flex-direction: row;
+}
+.Adrvertisement{
+  width :680px;
+  height:100px;
+  background-color: #b4a7d6;
+  border: 1px black solid;
+  margin: 0px 8px 10px ;
+}
+
+
