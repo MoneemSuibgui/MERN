@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+.error{
+  color: red;
+  width: 30%;
+  text-align: center;
+  margin-left: 37%;
+}
+.myBeltInput{
+  width: 300px;
+  height: 30px;
+  margin-bottom: 10px;
+  background-color: cyan;
+  border-radius: 10px;
+}
+.add{
+  width: 100px;
+  height: 40px;
+  background-color :blue;
+  color: white ;
+  border-radius: 20px;
+  box-shadow: 4px 4px 4px grey;
+margin-bottom: 30px;
+}
+
+.deleteBelt{
+  width: 70px;
+  height: 30px;
+  background-color: red;
+  color: white;
+  border-radius: 30px;
+  box-shadow: 3px 3px 3px black;
+  margin-top: 5px;
+}
+.beltInfo{
+  width: 30%;
+  margin-left: 37%;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+}
+
