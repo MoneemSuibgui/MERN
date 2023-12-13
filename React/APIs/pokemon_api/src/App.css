@@ -1,0 +1,16 @@
+
+.pokemonsPicture{
+  width: 600px;
+  height: 400px;
+  border-radius: 20px;
+  box-shadow: 4px 4px black;
+}
+.pokemon{
+  width: 200px;
+  height: 20px;
+  padding-bottom: 25px;
+  margin-left: 50%;
+  border-radius: 20px;
+  margin-bottom:10px;
+}
+
