@@ -1,0 +1,67 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+img{
+  width: 400px;
+  height: 300px;
+  border-radius: 20px;
+  margin-left: 13%;
+}
+.skillLabel{
+  font-size: 24px;
+  font-weight: 500;
+}
+.skillInput{
+  width: 250px;
+  height: 30px;
+  border-radius: 20px;
+  margin-left: ;
+}
+.superSkill{
+  font-size: 20px;
+  font-style: italic;
+  color: green;
+}
+.checkSuper{
+  margin-left: 10%;
+}
+.add{
+  width: 100px;
+  height: 40px;
+  font-size: 18px;
+  margin-top: 10px;
+  margin-left: 10%;
+  box-shadow: 3px 3px 3px grey;
+
+}
+
+.add:hover{
+  background-color: rgb(0, 47, 255);
+  color: white;
+  cursor:pointer;
+}
+.removeSkill{
+  width: 130px;
+  height: 40px;
+  font-size: 18px;
+  margin-bottom: 10px;
+  box-shadow: 3px 3px 3px black;
+  background-color: red;
+  color: white;
+  border-radius:20px;
+}
+.skillsInfo{
+  border: 2px black solid;
+  background-color:rgb(173, 171, 171);
+  width: 650px;
+  margin-left: 38%;
+  margin-bottom: 20px;
+  box-shadow: 4px 4px 4px black;
+}
+.resultSuper{
+  font-size: 18px;
+  font-weight:700 ;
+  color: rgb(239, 239, 16);
+}
