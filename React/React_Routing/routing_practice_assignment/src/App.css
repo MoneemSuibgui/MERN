@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+.active{
+  color: red;
+  font-style: italic;
+}
+.navLink {
+  padding: 20px;
+}
+
