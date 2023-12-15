@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+}
+.apiForm{
+  margin-top: 30px;
+}
+
+.myList,.apiId{
+  width: 160px;
+  height: 30px;
+  border: 2px black solid;
+  border-radius: 10px;
+  margin-right: 20px;
+}
+label{
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.btn{
+  margin-left: 20px;
+  width: 100px;
+  height: 40px;
+  background-color: blue;
+  color: white;
+  border-radius: 15px;
+  font-size: 14px;
+  box-shadow: 3px 3px 3px gray;
+}
+.btn:hover{
+  background-color: rgb(16, 193, 16);
+  cursor: pointer;
+}
+.errorImage{
+  width: 50%;
+  height: 50%;
+  border-radius: 10px;
+}
+.errorMessage{
+  color: red;
+  font-size: 20px;
+  font-style: oblique;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.homeworld{
+  font-weight: 700;
+  color:darkorange;
+}
+
