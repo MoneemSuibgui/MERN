@@ -1,7 +1,7 @@
 // import mongoose to connecting with mongo db
 const mongoose=require("mongoose")
 
-// set up monggose.connect function 
+// set up mongoose.connect function 
 mongoose.connect("mongodb://0.0.0.0/productManager",{
     useNewUrlParser:true,
     useUnifiedTopology:true,
