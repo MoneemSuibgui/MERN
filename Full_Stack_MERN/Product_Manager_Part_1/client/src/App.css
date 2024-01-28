@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+}
+
+label{
+  font-size: 24px;
+}
+.productInput{
+  width: 350px;
+  height:30px ;
+  margin-top: 20px;
+}
+.priceProduct,.titleProduct,.descriptionProsduct{
+  padding: 20px;
+  background-color: grey;
+  width: 500px;
+  margin-left: 33%;
+  border-radius: 15px;
+}
+.productHeader{
+  margin-top: 40px;
+}
+.btn{
+  width: 150px;
+  height: 50px;
+  background-color: rgb(39, 178, 7);
+  color: white;
+  font-size: 18px;
+  border-radius: 15px;
+}
+.btn:hover{
+  cursor:pointer;
+  background-color: rgb(30, 30, 238);
+}
