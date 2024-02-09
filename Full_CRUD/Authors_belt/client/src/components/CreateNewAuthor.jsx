@@ -2,6 +2,7 @@ import React, { useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 import axios from 'axios'
 
+// new component to add new author
 const CreateNewAuthor = (props) => {
     const{allAuthors,setAllAuthors}=props
     const[firstname,setFirstName]=useState("")
