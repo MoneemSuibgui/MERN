@@ -1,0 +1,16 @@
+.createPlayer,.statusPlayer,.team{
+  display: flex;
+  justify-content: center;
+  margin: 5%;
+  padding: 10%;
+}
+.createPlayer{
+    background-image: url("https://e.rpp-noticias.io/large/2018/04/01/portada_204120.jpg");
+}
+.statusPlayer{
+
+  background-image: url("https://th.bing.com/th/id/R.6467537035a8bdeedec79ac1d695d906?rik=aVDwBbt6Mwu74w&riu=http%3a%2f%2fimages4.fanpop.com%2fimage%2fphotos%2f22400000%2fX-Alonso-RMA-team-mates-xabi-alonso-22497192-500-349.jpg&ehk=aOnXXPA%2fhZpw%2fIidZPGdGY8Z4%2bYEGtLjmBQ52omOBOQ%3d&risl=&pid=ImgRaw&r=0");
+}
+.team{
+  background-image: url("https://th.bing.com/th/id/OIP.cpTDF-EGn9JjHrunLYnadgHaId?pid=ImgDet&rs=1");
+}
